@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMeNow.Android", "FindMeNow.Android\FindMeNow.Android.csproj", "{89807CD9-4758-4FED-885E-57217B67F9EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMeNow", "FindMeNow\FindMeNow.csproj", "{3C642F5E-0A55-4FBC-BD84-32AA71479090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89807CD9-4758-4FED-885E-57217B67F9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89807CD9-4758-4FED-885E-57217B67F9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89807CD9-4758-4FED-885E-57217B67F9EE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{89807CD9-4758-4FED-885E-57217B67F9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89807CD9-4758-4FED-885E-57217B67F9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89807CD9-4758-4FED-885E-57217B67F9EE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3C642F5E-0A55-4FBC-BD84-32AA71479090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C642F5E-0A55-4FBC-BD84-32AA71479090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C642F5E-0A55-4FBC-BD84-32AA71479090}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3C642F5E-0A55-4FBC-BD84-32AA71479090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C642F5E-0A55-4FBC-BD84-32AA71479090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C642F5E-0A55-4FBC-BD84-32AA71479090}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86E97ACC-37C4-42C1-994D-5F75A935F380}
+	EndGlobalSection
+EndGlobal
